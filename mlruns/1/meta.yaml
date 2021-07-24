@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/daud/Desktop/Twitter/abtest_mlops/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: My_flow

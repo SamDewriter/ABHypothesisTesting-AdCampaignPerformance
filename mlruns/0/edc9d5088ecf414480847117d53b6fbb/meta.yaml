@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/edc9d5088ecf414480847117d53b6fbb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: edc9d5088ecf414480847117d53b6fbb
+run_uuid: edc9d5088ecf414480847117d53b6fbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627080579071
+status: 1
+tags: []
+user_id: daud
