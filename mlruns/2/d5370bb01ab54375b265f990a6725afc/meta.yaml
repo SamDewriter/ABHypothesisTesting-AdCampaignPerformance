@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/daud/Desktop/Twitter/abtest_mlops/mlruns/2/d5370bb01ab54375b265f990a6725afc/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: d5370bb01ab54375b265f990a6725afc
+run_uuid: d5370bb01ab54375b265f990a6725afc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627155778709
+status: 1
+tags: []
+user_id: daud
