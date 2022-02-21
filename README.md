@@ -1,6 +1,6 @@
 # Ad Campaign Performance: A/B Hypothesis Testing
 
-## Introduction
+# Introduction
 
 SmartAd is a mobile first advertiser agency that designs intuitive touch-enabled advertising. It provides brands with an automated advertising experience via machine learning and creative excellence. Their company is based on the principle of voluntary participation which is proven to increase brand engagement and memorability 10 x more than static alternatives.
 
@@ -22,15 +22,10 @@ This is a test run and the main objective is to validate the hypothesis algorith
 Control: users who have been shown a dummy ad
 Exposed: users who have been shown a creative (ad) that was designed by SmartAd for the client.
 
-The data collected for this project has the following columns
-<li>auction_id: the unique id of the online user who has been presented the BIO. In standard terminologies this is called an impression id. The user may see the BIO questionnaire but choose not to respond. In that case both the yes and no columns are zero.</li>
-<li>experiment: which group the user belongs to - control or exposed.</li>
-<li>date: the date in YYYY-MM-DD format</li>
-<li>hour: the hour of the day in HH format.</li>
-<li>device_make: the name of the type of device the user has e.g. Samsung</li>
-<li>platform_os: the id of the OS the user has.</li>
-<li>browser: the name of the browser the user uses to see the BIO questionnaire.</li>
-<li>yes: 1 if the user chooses the “Yes” radio button for the BIO questionnaire.</li>
-<li>no: 1 if the user chooses the “No” radio button for the BIO questionnaire.</li>
-
+# Objectives
+The following were achieved in this project:
+- Set up a A/B testing framework
+- Set up a repeatable ML framework
+- Performed A/B testing with classical, sequential, and machine learning methods
+- Extracted valid insights in relation to the business objectives
 
